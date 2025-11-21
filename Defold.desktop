@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Defold
+StartupWMClass=com.defold.editor.Start
+Comment=The game engine for high-performance cross-platform games
+GenericName=Game Engine
+Exec=com.defold.Defold %U
+Icon=com.defold.Defold
+Type=Application
+Categories=Game;Development

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>com.defold.Defold.desktop</id>
+  <name>Defold</name>
+  <summary>The game engine for high-performance cross-platform games</summary>
+  <developer_name>The Defold Foundation</developer_name>
+  <launchable type="desktop-id">com.defold.Defold.desktop</launchable>
+  <description>
+    <p>
+      **This is a community package of the Defold engine and not officially supported by the Defold Foundation.**
+      Find officially supported binaries on defold.com.
+    </p>
+    <p>
+      Defold is a turn-key solution, providing everything you need to build a game. Learn about the major features
+      of the engine on this product page. Make sure to also check the Learn pages for additional and more detailed
+      information.
+    </p>
+  </description>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>LicenseRef-proprietary</project_license>
+  <url type="homepage">https://defold.com</url>
+  <url type="bugtracker">https://github.com/defold/defold/issues</url>
+  <url type="faq">https://defold.com/faq/faq/</url>
+  <url type="help">https://defold.com/learn/</url>
+  <url type="donation">https://defold.com/donate/</url>
+  <url type="translate">https://crowdin.com/project/defold</url>
+  <url type="contact">https://defold.com/support/</url>
+  <url type="vcs-browser">https://github.com/defold/defold</url>
+  <url type="contribute">https://github.com/defold/defold/blob/dev/CONTRIBUTING.md</url>
+  <screenshots>
+    <screenshot type="default">
+      <image type="source">https://defold.com/images/editor/nosetup-editor.png</image>
+      <caption>No Setup Required</caption>
+    </screenshot>
+    <screenshot>
+      <image type="source">https://defold.com/images/editor/editor-screenshot-hero-right-dragosha.png</image>
+      <caption>2D Editor</caption>
+    </screenshot>
+    <screenshot>
+      <image type="source">https://defold.com/images/editor/editor-screenshot-hero-left-dragosha-3d.png</image>
+      <caption>3D Editor</caption>
+    </screenshot>
+    <screenshot>
+      <image type="source">https://defold.com/images/editor/editor-screenshot-hero-right.png</image>
+      <caption>Particle Editor</caption>
+    </screenshot>
+  </screenshots>
+  <releases>
+      <release version="1.12.0" date="2026-01-12" />
+  </releases>
+</component>
